@@ -32,7 +32,7 @@ Jarvis AI Assistant is an intelligent virtual assistant powered by cutting-edge 
 - Trained and fine-tuned the AI brain to perform specific tasks and engage in interactive conversations with users.
 
 **Duration:**
-Developed from January 2022 to April 2022.
+Developed from January 2023 to June 2023.
 
 **Impact:**
 Jarvis AI Assistant aims to make users' lives more efficient by providing quick access to information, automating routine tasks, and enhancing overall productivity.
